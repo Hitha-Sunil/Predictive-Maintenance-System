@@ -99,14 +99,6 @@ The dataset consists of 10,000 records of equipment performance and maintenance,
 
 ---
 
-## 🚀 How to Run
-
-1️⃣ Clone this repository  
-2️⃣ Ensure `predictive_maintenance.csv` is in the same directory as the notebook  
-3️⃣ Open `predictive_maintenance.ipynb` in Jupyter Notebook  
-4️⃣ Run all cells
-
----
 
 ## 📂 Author
 
